@@ -14,7 +14,6 @@ and Medallion Architecture.
 
 ### 🔗 Connect with me
 - 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📺 YouTube: https://youtube.com/@yourchannel
 
 ---
 
