@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Profile Banner" />
-</p>
-
 # Hi 👋, I'm Shubham
 
 ## 🚀 Azure Data Engineer
