@@ -1,3 +1,5 @@
+![Banner](./ChatGPT Image Feb 9, 2026, 09_58_27 AM.png)
+
 # Hi 👋, I'm Shubham
 
 ## 🚀 Azure Data Engineer
