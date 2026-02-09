@@ -23,7 +23,7 @@ and Medallion Architecture.
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
   <img src="./databricks.png" alt="Databricks" width="45" height="45"/>
-  <img src="./pyspark.png" alt="PySpark" width="45" height="45"/>
+  <img src="./pySpark.png" alt="PySpark" width="45" height="45"/>
   <img src="./delta-lake.png" alt="Delta Lake" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="./fabric.png" alt="Microsoft Fabric" width="45" height="45"/>
