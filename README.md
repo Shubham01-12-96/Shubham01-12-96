@@ -1,4 +1,6 @@
-![Banner](./ChatGPT Image Feb 9, 2026, 09_58_27 AM.png)
+<p align="center">
+  <img src="./banner.png" alt="Profile Banner" />
+</p>
 
 # Hi 👋, I'm Shubham
 
@@ -12,7 +14,7 @@ and Medallion Architecture.
 
 ### 🔗 Connect with me
 - 💼 LinkedIn: https://linkedin.com/in/your-profile
-
+- 📺 YouTube: https://youtube.com/@yourchannel
 
 ---
 
