@@ -12,7 +12,7 @@ and Medallion Architecture.
 ---
 
 ### 🔗 Connect with me
-- 💼 LinkedIn: [https://www.linkedin.com/in/shubham-b-5b18a8b6/]
+- 💼 LinkedIn: https://www.linkedin.com/in/shubham-b-5b18a8b6/
 
 
 ---
